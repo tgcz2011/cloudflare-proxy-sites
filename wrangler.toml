@@ -3,3 +3,4 @@ account_id = "ec7da0a1e1f36f7ad2c426e6b2d6fdaa"
 workers_dev = false
 route = "proxy.zztool.dpdns.org/*"  # 替换为你自己的域名
 main = "index.js"
+compatibility_date = "2025-05-04"
